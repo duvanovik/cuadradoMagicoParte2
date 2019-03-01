@@ -1,0 +1,6 @@
+El siguiente laboratorio implementa las exceciones y pruebas al cuadrado magico anterior.
+Notara ahora, que si ingresa un numero negativo, cero o algun caracter el programa mostrara una venta emergente
+previniendo que se salga del flujo de control. Si no escoje alguna opcion en los choiceBox, tambien saltara una 
+ventana emergente que le indica el error.
+
+Nota: Asegurese de oprimir enter luego de ingresar el tamaño.
